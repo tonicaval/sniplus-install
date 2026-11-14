@@ -3,13 +3,13 @@
     <channel>
         <title>Sniplus</title>
         <item>
-            <title>0.1.18</title>
-            <pubDate>Sat, 14 Nov 2026 00:21:38 +0000</pubDate>
-            <sparkle:version>18.1</sparkle:version>
-            <sparkle:shortVersionString>0.1.18</sparkle:shortVersionString>
+            <title>0.1.19</title>
+            <pubDate>Sat, 14 Nov 2026 00:34:59 +0000</pubDate>
+            <sparkle:version>19.1</sparkle:version>
+            <sparkle:shortVersionString>0.1.19</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/tonicaval/sniplus-install/releases/download/v0.1.18-1/Sniplus-18.1.dmg" length="5110882" type="application/octet-stream" sparkle:edSignature="fDykfO3xdlxKigWMEcXQl6o+9m/OdTh9S4uzG3QJohysp1+WrTJuG+CjrlNA81RLmGJiY9iWVE2LV/ZJFnIYCA=="/>
+            <enclosure url="https://github.com/tonicaval/sniplus-install/releases/download/v0.1.19-1/Sniplus-19.1.dmg" length="5118128" type="application/octet-stream" sparkle:edSignature="LDQUNpHCD8S4cevu4wkbw42Pms9XUMpX0GJ3uX0abJCaqJxzsw2eKnHnGV10mJgnEwJCKrIj7j5YEh0yduxPDw=="/>
         </item>
     </channel>
 </rss>
